@@ -1,0 +1,37 @@
+---
+buzzwords: |+
+  data: {"items":[{"label":"Leverage","value":3},{"label":"Pivoting","value":16},{"label":"Streamlininess","value":6},{"label":"Enterprise","value":1},{"label":"Turn-key","value":13},{"label":"Web 2.0","value":29},{"label":"Synergy","value":6},{"label":"Paradigm shift","value":27},{"label":"Exit strategy","value":24}],"id":"buzzwords","updatedAt":1464256087}
+
+valuation: |+
+  data: {"current":86,"last":59,"id":"valuation","updatedAt":1464256087}
+
+karma: |+
+  data: {"current":121390,"last":176458,"id":"karma","updatedAt":1464256087}
+
+synergy: |+
+  data: {"value":55,"id":"synergy","updatedAt":1464256087}
+
+convergence: |+
+  data: {"points":[{"x":577,"y":35},{"x":578,"y":17},{"x":579,"y":2},{"x":580,"y":3},{"x":581,"y":48},{"x":582,"y":13},{"x":583,"y":49},{"x":584,"y":26},{"x":585,"y":31},{"x":586,"y":41}],"id":"convergence","updatedAt":1464256087}
+
+welcome: |+
+  data: {"text":"Hey, Look what I can do!","id":"welcome","updatedAt":1464107614}
+
+Spoon: |+
+  data: {"name":"Spoon #13_origin/test/3608_automate_screenshots","status":"Failed","duration":1831,"link":"http://jenkins-espresso.internal.busuu.com:8080/job/Spoon/13/","health":8,"time":1464279774922,"id":"Spoon","updatedAt":1464282794}
+
+Android Flagship - feature branches: |+
+  data: {"name":"Android Flagship - feature branches #101_origin/feature/3567_certificate_in_dashboard","status":"Failed","duration":24,"link":"http://jenkins02.internal.busuu.com:8080/job/Android%20Flagship%20-%20feature%20branches/101/","health":48,"time":1463666848605,"id":"Android Flagship - feature branches","updatedAt":1464282794}
+
+iOS UI Tests: |+
+  data: {"name":"iOS UI Tests #206","status":"Failed","duration":1324,"link":"http://mobci.internal.busuu.com:8080/job/iOS%20UI%20Tests/206/","health":11,"time":1464178544220,"id":"iOS UI Tests","updatedAt":1464282794}
+
+iOS Internal Distribution for development: |+
+  data: {"name":"iOS Internal Distribution for development #628","status":"Successful","duration":876,"link":"http://mobci.internal.busuu.com:8080/job/iOS%20Internal%20Distribution%20for%20development/628/","health":76,"time":1464274935036,"id":"iOS Internal Distribution for development","updatedAt":1464282794}
+
+content-validation: |+
+  data: {"name":"content-validation #27_fr_develop","status":"Successful","duration":34,"link":"http://services.internal.busuu.com:8080/job/content-validation/27/","health":63,"time":1464277707821,"id":"content-validation","updatedAt":1464282794}
+
+WEB Automation using POM: |+
+  data: {"name":"WEB Automation using POM #8565","status":"Successful","duration":304,"link":"http://jenkins.internal.busuu.com:8080/job/WEB%20Automation%20using%20POM/8565/","health":97,"time":1464282060202,"id":"WEB Automation using POM","updatedAt":1464282794}
+

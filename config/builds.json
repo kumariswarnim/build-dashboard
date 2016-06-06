@@ -1,0 +1,17 @@
+{
+  "androidBaseUrl": "http://jenkins02.internal.busuu.com:8080/",
+  "espressoBaseUrl": "http://jenkins-espresso.local:8080/",
+  "iosBaseUrl": "http://mobci.internal.busuu.com:8080/",
+  "servicesBaseUrl": "http://services.internal.busuu.com:8080/",
+  "webBaseUrl": "http://jenkins.internal.busuu.com:8080/",
+
+  "builds": [
+    {"id": "Spoon", "server": "Espresso"},
+    {"id": "Android Flagship - feature branches", "server": "Android"},
+    {"id": "iOS UI Tests", "server": "iOS"},
+    {"id": "iOS Internal Distribution for development", "server": "iOS"},
+    {"id": "content-validation", "server": "Services"},
+    {"id": "WEB Automation using POM", "server": "Web"},
+    {"id": "APIs Automation test", "server": "Services"}
+  ]
+}
